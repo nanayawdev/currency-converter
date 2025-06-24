@@ -9,7 +9,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Currency Converter",
   description: "Convert currencies with real-time exchange rates",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
